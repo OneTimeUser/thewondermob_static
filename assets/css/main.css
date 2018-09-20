@@ -1430,8 +1430,8 @@ nav[role="navigation"] {
 
     /*===== Titles =====*/
     .site-tagline p {
-        font-size: 6.6vw;
-        line-height: .9;
+        font-size: 8vw;
+        line-height: 1;
         letter-spacing: -2px;
     }
     /*===== Navigations =====*/

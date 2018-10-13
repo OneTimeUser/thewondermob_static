@@ -842,9 +842,10 @@ pre {
 }
 
 ._project {
-    display: inline;
-    position: relative;
+    display: inline-flex;
+    /*    position: relative;*/
     /*    margin-right: 40px;*/
+    flex-wrap: nowrap;
 }
 
 .table {

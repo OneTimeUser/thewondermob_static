@@ -1326,6 +1326,9 @@ nav[role="navigation"] {
 
 .page-desc-text {
     width: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+
 }
 
 .page-desc img {
@@ -1693,6 +1696,8 @@ nav[role="navigation"] {
 
     .page-desc-title {
         width: 100%;
+        padding-top: 0;
+
     }
 
     .page-desc-title p,
@@ -1706,8 +1711,9 @@ nav[role="navigation"] {
     }
 
     .page-desc-text {
-        width: 100%;
-        padding-top: 0;
+        width: 60vw;
+        padding-top: 100px;
+        margin: 0 auto;
     }
     .row {
         margin-top: 80px;
